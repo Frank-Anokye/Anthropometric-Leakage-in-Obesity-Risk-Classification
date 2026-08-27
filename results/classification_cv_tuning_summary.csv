@@ -1,0 +1,7 @@
+model,best_cv_macro_f1,best_params,tuning_seconds
+LogisticRegression,0.9169240438564564,"{""clf__C"": 9.51714306409916, ""clf__penalty"": ""l2""}",4.638440847396851
+kNN,0.83536510382932,"{""clf__n_neighbors"": 17, ""clf__p"": 1, ""clf__weights"": ""distance""}",0.38252758979797363
+SVM_RBF,0.9099263198264976,"{""clf__C"": 3.2203728088487305, ""clf__gamma"": 0.15699452033620265, ""clf__kernel"": ""rbf""}",0.6503341197967529
+DecisionTree,0.9133540213329182,"{""clf__criterion"": ""entropy"", ""clf__max_depth"": 14, ""clf__min_samples_leaf"": 6, ""clf__min_samples_split"": 3}",0.3075902462005615
+RandomForest,0.9380137342972971,"{""clf__max_depth"": 14, ""clf__max_features"": ""sqrt"", ""clf__min_samples_split"": 5, ""clf__n_estimators"": 183}",2.4039466381073
+GradientBoosting,0.957363541379201,"{""clf__l2_regularization"": 0.3745401188473625, ""clf__learning_rate"": 0.25767857660247906, ""clf__max_depth"": 4, ""clf__max_iter"": 131}",6.4686596393585205

@@ -1,0 +1,8 @@
+{
+  "best_model": "RandomForestRegressor",
+  "model": "RandomForestRegressor",
+  "cv_r2_train": 0.861270999969814,
+  "test_r2": 0.8689174338351346,
+  "test_mae": 1.8824303682659098,
+  "test_rmse": 2.9302448479310743
+}

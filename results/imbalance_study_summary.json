@@ -1,0 +1,38 @@
+[
+  {
+    "strategy": "baseline",
+    "macro_f1": 0.841991888998189,
+    "balanced_accuracy": 0.841878070747059,
+    "recall_Insufficient_Weight": 0.8691029900332227,
+    "recall_Normal_Weight": 0.7244444444444444,
+    "recall_Overweight_Level_I": 0.742020202020202,
+    "recall_Overweight_Level_II": 0.7411655874190564,
+    "recall_Obesity_Type_I": 0.8539473684210526,
+    "recall_Obesity_Type_II": 0.9663120567375886,
+    "recall_Obesity_Type_III": 0.9961538461538462
+  },
+  {
+    "strategy": "class_weight_balanced",
+    "macro_f1": 0.8484910053232524,
+    "balanced_accuracy": 0.8489196173897706,
+    "recall_Insufficient_Weight": 0.8784053156146179,
+    "recall_Normal_Weight": 0.7466666666666666,
+    "recall_Overweight_Level_I": 0.7601010101010102,
+    "recall_Overweight_Level_II": 0.7628122109158186,
+    "recall_Obesity_Type_I": 0.8361528822055136,
+    "recall_Obesity_Type_II": 0.962145390070922,
+    "recall_Obesity_Type_III": 0.9961538461538462
+  },
+  {
+    "strategy": "smote_oversampling",
+    "macro_f1": 0.8488602236386118,
+    "balanced_accuracy": 0.8489383975976803,
+    "recall_Insufficient_Weight": 0.8691029900332226,
+    "recall_Normal_Weight": 0.7511111111111111,
+    "recall_Overweight_Level_I": 0.7511111111111111,
+    "recall_Overweight_Level_II": 0.7584643848288622,
+    "recall_Obesity_Type_I": 0.8503132832080201,
+    "recall_Obesity_Type_II": 0.9663120567375886,
+    "recall_Obesity_Type_III": 0.9961538461538462
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "feature_mode": "lifestyle",
+  "best_model": "RandomForest",
+  "top3_base_learners_for_stacking": [
+    "RandomForest",
+    "GradientBoosting",
+    "SVM_RBF"
+  ],
+  "best_model_test_macro_f1": 0.8565893885128653,
+  "best_model_test_accuracy": 0.861244019138756
+}

@@ -1,0 +1,11 @@
+{
+  "selected_k": 4,
+  "silhouette_at_selected_k": 0.1548134222829806,
+  "davies_bouldin_at_selected_k": 1.977204781672606,
+  "ARI_vs_true_class": 0.17947906124725932,
+  "NMI_vs_true_class": 0.24746627560537965,
+  "pca_explained_variance_ratio_2d": [
+    0.20001406166655028,
+    0.1664092993497239
+  ]
+}

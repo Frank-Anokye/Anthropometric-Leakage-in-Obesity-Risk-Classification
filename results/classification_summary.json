@@ -1,0 +1,11 @@
+{
+  "feature_mode": "full",
+  "best_model": "StackingEnsemble",
+  "top3_base_learners_for_stacking": [
+    "GradientBoosting",
+    "RandomForest",
+    "LogisticRegression"
+  ],
+  "best_model_test_macro_f1": 0.9805338971499522,
+  "best_model_test_accuracy": 0.9808612440191388
+}
